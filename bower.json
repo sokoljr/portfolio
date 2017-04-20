@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sokol Sergey"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sokoljr/portfolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "#3.3.7",
+    "jquery": "#1.12.4"
+  }
+}
